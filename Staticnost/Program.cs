@@ -6,7 +6,7 @@ namespace Staticnost
     {
         static void Main(string[] args)
         {
-            Osoba.Ime = "Pera";
+           
 
            while(true)
            {
